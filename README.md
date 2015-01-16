@@ -5,12 +5,12 @@ buildpack](https://github.com/heroku/heroku-buildpack-ruby).  Use it when
 creating a new app:
 
     heroku create myapp --buildpack \
-      https://github.com/tpope/heroku-buildpack-ruby-tpope
+      https://github.com/tpope/heroku-buildpack-ruby-interexchange
 
 Or add it to an existing app:
 
     heroku config:add \
-      BUILDPACK_URL=https://github.com/tpope/heroku-buildpack-ruby-tpope
+      BUILDPACK_URL=https://github.com/tpope/heroku-buildpack-ruby-interexchange
 
 Or just cherry-pick the parts you like into your own fork.
 
