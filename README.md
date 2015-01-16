@@ -10,7 +10,7 @@ creating a new app:
 Or add it to an existing app:
 
     heroku config:add \
-      BUILDPACK_URL=https://github.com/tpope/heroku-buildpack-ruby-interexchange
+      BUILDPACK_URL=https://github.com/interexchange/heroku-buildpack-ruby-interexchange
 
 Or just cherry-pick the parts you like into your own fork.
 
