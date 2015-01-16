@@ -1,4 +1,4 @@
-# Heroku buildpack: Ruby: tpope edition
+# Heroku buildpack: Ruby: InterExchange edition
 
 This is my fork of the [official Heroku Ruby
 buildpack](https://github.com/heroku/heroku-buildpack-ruby).  Use it when
